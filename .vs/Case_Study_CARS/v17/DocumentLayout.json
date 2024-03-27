@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# codes\\Case_Study_CARS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\cars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BB7C07-60B5-4D68-9A8B-4E663882C72E}|CrimeAnalysisTestUnit\\CrimeAnalysisTestUnit.csproj|c:\\c# codes\\case_study_cars\\crimeanalysistestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BB7C07-60B5-4D68-9A8B-4E663882C72E}|CrimeAnalysisTestUnit\\CrimeAnalysisTestUnit.csproj|solutionrelative:crimeanalysistestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\cars_sys\\cars_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\cars_sys\\cars_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\crimeanalysisserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\crimeanalysisserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\icrimeanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\icrimeanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\incidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\serviceimplementationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\serviceimplementationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\casesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\casesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\reportsrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\reportsrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\suspectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\suspectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\victimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\victimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\victims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\victims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\suspects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\suspects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\officers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\officers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\lawenforcementagencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\lawenforcementagencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\incidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\incidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\entities\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\entities\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\officerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\officerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\lawenforcementservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\lawenforcementservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\service\\evidenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\service\\evidenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\evidencesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\evidencesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\victimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\victimsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\suspectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\suspectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\officersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\officersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\lawenforcementagenciesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\lawenforcementagenciesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\casesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\casesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\dao\\incidentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\incidentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\exceptions\\invalidincidentstatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\exceptions\\invalidincidentstatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\propertyutil\\dataconnectionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\propertyutil\\dataconnectionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\exceptions\\invalidcontactnumberexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\exceptions\\invalidcontactnumberexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|c:\\c# codes\\case_study_cars\\cars\\exceptions\\incidentidnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AF6867-E186-4760-9B25-D293EE7F9BFC}|CARS\\CARS.csproj|solutionrelative:cars\\exceptions\\incidentidnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsRespository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\ReportsRespository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\ReportsRespository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\ReportsRespository.cs",
+              "RelativeToolTip": "CARS\\Dao\\ReportsRespository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:36:59.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CasesService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\CasesService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\CasesService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\CasesService.cs",
+              "RelativeToolTip": "CARS\\Service\\CasesService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:48:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cases.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Cases.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Cases.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Cases.cs",
+              "RelativeToolTip": "CARS\\Entities\\Cases.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwCwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:07:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICrimeAnalysisService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\ICrimeAnalysisService.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\ICrimeAnalysisService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\ICrimeAnalysisService.cs",
+              "RelativeToolTip": "CARS\\Dao\\ICrimeAnalysisService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:21:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CARS_system.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\CARS_Sys\\CARS_system.cs",
+              "RelativeDocumentMoniker": "CARS\\CARS_Sys\\CARS_system.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\CARS_Sys\\CARS_system.cs",
+              "RelativeToolTip": "CARS\\CARS_Sys\\CARS_system.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:41:36.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Program.cs",
+              "RelativeDocumentMoniker": "CARS\\Program.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Program.cs",
+              "RelativeToolTip": "CARS\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:03:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrimeAnalysisServiceImpl.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\CrimeAnalysisServiceImpl.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\CrimeAnalysisServiceImpl.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\CrimeAnalysisServiceImpl.cs",
+              "RelativeToolTip": "CARS\\Dao\\CrimeAnalysisServiceImpl.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAkwLgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T04:27:59.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CrimeAnalysisTestUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CrimeAnalysisTestUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CrimeAnalysisTestUnit\\UnitTest1.cs",
+              "RelativeToolTip": "CrimeAnalysisTestUnit\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:31:03.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CARS.csproj",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\CARS.csproj",
+              "RelativeDocumentMoniker": "CARS\\CARS.csproj",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\CARS.csproj",
+              "RelativeToolTip": "CARS\\CARS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T03:46:08.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncidentService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\IncidentService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\IncidentService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\IncidentService.cs",
+              "RelativeToolTip": "CARS\\Service\\IncidentService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:47:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuspectsService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\SuspectsService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\SuspectsService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\SuspectsService.cs",
+              "RelativeToolTip": "CARS\\Service\\SuspectsService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:49:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceImplementationClass.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\ServiceImplementationClass.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\ServiceImplementationClass.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\ServiceImplementationClass.cs",
+              "RelativeToolTip": "CARS\\Service\\ServiceImplementationClass.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAADwv5oAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T08:02:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VictimService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\VictimService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\VictimService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\VictimService.cs",
+              "RelativeToolTip": "CARS\\Service\\VictimService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:49:21.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Victims.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Victims.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Victims.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Victims.cs",
+              "RelativeToolTip": "CARS\\Entities\\Victims.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyYAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:47:06.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Suspects.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Suspects.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Suspects.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Suspects.cs",
+              "RelativeToolTip": "CARS\\Entities\\Suspects.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA5wAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:47:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Reports.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Reports.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Reports.cs",
+              "RelativeToolTip": "CARS\\Entities\\Reports.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:48:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Officers.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Officers.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Officers.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Officers.cs",
+              "RelativeToolTip": "CARS\\Entities\\Officers.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCUAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:48:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LawEnforcementAgencies.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\LawEnforcementAgencies.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\LawEnforcementAgencies.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\LawEnforcementAgencies.cs",
+              "RelativeToolTip": "CARS\\Entities\\LawEnforcementAgencies.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCIAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:47:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Incidents.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Incidents.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Incidents.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Incidents.cs",
+              "RelativeToolTip": "CARS\\Entities\\Incidents.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwCkAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:46:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Evidence.cs",
+              "RelativeDocumentMoniker": "CARS\\Entities\\Evidence.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Entities\\Evidence.cs",
+              "RelativeToolTip": "CARS\\Entities\\Evidence.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:48:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OfficerService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\OfficerService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\OfficerService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\OfficerService.cs",
+              "RelativeToolTip": "CARS\\Service\\OfficerService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:57:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LawEnforcementServicecs.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\LawEnforcementServicecs.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\LawEnforcementServicecs.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\LawEnforcementServicecs.cs",
+              "RelativeToolTip": "CARS\\Service\\LawEnforcementServicecs.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:48:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EvidenceService.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\EvidenceService.cs",
+              "RelativeDocumentMoniker": "CARS\\Service\\EvidenceService.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Service\\EvidenceService.cs",
+              "RelativeToolTip": "CARS\\Service\\EvidenceService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:47:35.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EvidencesRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\EvidencesRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\EvidencesRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\EvidencesRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\EvidencesRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:34:38.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VictimsRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\VictimsRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\VictimsRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\VictimsRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\VictimsRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:37:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SuspectsRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\SuspectsRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\SuspectsRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\SuspectsRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\SuspectsRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:37:29.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OfficersRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\OfficersRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\OfficersRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\OfficersRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\OfficersRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:36:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LawEnforcementAgenciesRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\LawEnforcementAgenciesRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\LawEnforcementAgenciesRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\LawEnforcementAgenciesRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\LawEnforcementAgenciesRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:35:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CasesRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\CasesRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\CasesRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\CasesRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\CasesRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:34:11.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IncidentsRepository.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\IncidentsRepository.cs",
+              "RelativeDocumentMoniker": "CARS\\Dao\\IncidentsRepository.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Dao\\IncidentsRepository.cs",
+              "RelativeToolTip": "CARS\\Dao\\IncidentsRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:35:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InvalidIncidentStatusException.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\InvalidIncidentStatusException.cs",
+              "RelativeDocumentMoniker": "CARS\\Exceptions\\InvalidIncidentStatusException.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\InvalidIncidentStatusException.cs",
+              "RelativeToolTip": "CARS\\Exceptions\\InvalidIncidentStatusException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:19:48.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataConnectionUtility.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\PropertyUtil\\DataConnectionUtility.cs",
+              "RelativeDocumentMoniker": "CARS\\PropertyUtil\\DataConnectionUtility.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\PropertyUtil\\DataConnectionUtility.cs",
+              "RelativeToolTip": "CARS\\PropertyUtil\\DataConnectionUtility.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:15:17.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\appsettings.json",
+              "RelativeDocumentMoniker": "CARS\\appsettings.json",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\appsettings.json",
+              "RelativeToolTip": "CARS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T11:00:40.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InvalidContactNumberExceptions.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\InvalidContactNumberExceptions.cs",
+              "RelativeDocumentMoniker": "CARS\\Exceptions\\InvalidContactNumberExceptions.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\InvalidContactNumberExceptions.cs",
+              "RelativeToolTip": "CARS\\Exceptions\\InvalidContactNumberExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:01:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IncidentIdNotFoundException.cs",
+              "DocumentMoniker": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\IncidentIdNotFoundException.cs",
+              "RelativeDocumentMoniker": "CARS\\Exceptions\\IncidentIdNotFoundException.cs",
+              "ToolTip": "C:\\c# codes\\Case_Study_CARS\\CARS\\Exceptions\\IncidentIdNotFoundException.cs",
+              "RelativeToolTip": "CARS\\Exceptions\\IncidentIdNotFoundException.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T07:43:39.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
